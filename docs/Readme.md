@@ -1,4 +1,4 @@
-Test readme.md file
+Test readme.md file 3
 
 # Viewing the API. 
 <!--- Had to use the absolute adress. If not the source code of index.html would be displayed instead of the rendered page. --->
