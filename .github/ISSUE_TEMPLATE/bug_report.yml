@@ -20,7 +20,6 @@ body:
     label: Steps/Code to Reproduce
     description: |
       Please add the steps that can reproduce the problem. More precise bug report tends to be solved more quickly because it avoids back-and-forth discussion between the maintainers and the reporter. 
-    placeholder: |
   validations:
     required: true
     
